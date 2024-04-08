@@ -4,7 +4,7 @@ postman documentation:
 https://documenter.getpostman.com/view/20254275/2sA35MzKXw
 
 --------------------------------------------------------------------------------------------------------------------------------
-install needed dependencies using npm i , change the mongouri as per the db credencials and then run the project using npm start.
+install needed dependencies using npm i , change the mongo_uri as per the db credencials and then run the project using npm start.
 ---------------
 Design Choices:
 --------------
