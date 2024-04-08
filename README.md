@@ -5,11 +5,10 @@ https://documenter.getpostman.com/view/20254275/2sA35MzKXw
 
 --------------------------------------------------------------------------------------------------------------------------------
 install needed dependencies using npm i , change the mongo_uri as per the db credencials and then run the project using npm start.
+
 ---------------
 Design Choices:
 --------------
-Technologies Used:
-------------------
 Node.js:
 -------
 Chosen for its event-driven, non-blocking I/O model, making it efficient for handling concurrent requests.
